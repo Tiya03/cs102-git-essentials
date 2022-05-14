@@ -3,3 +3,11 @@ git status - for knowing the status of files. For example are they pushed or com
 git log - shows the log of all commands like when was the file pushed or pulled.
 git pull - for fetching the files from server to local machines.
 git push - for transferring the files from local machine to server.
+
+							SUMMARY
+In the class we first learnt how to set up a ssh key using ssh-keygen commands. We created a public - private key pair.
+Then we added this public key to our GitHub account so that our local machine is uniquely recognised as the owner of 
+this GitHub account thus giving our local machine all owner permissions. One key was set up we tried cloning repository
+without the use of "GitHub Desktop" application and using git commands. Further we used more github commands in Ubuntu 
+to create a file, add it to the repository, commit the changes and finally pushing all the changes made in local machine
+to the server. We also made changes in the server and pulled the changes to local machine thus updating both GitHubs.
