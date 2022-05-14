@@ -1,0 +1,5 @@
+git add <file_name> - for adding the file to repository.
+git status - for knowing the status of files. For example are they pushed or commited.
+git log - shows the log of all commands like when was the file pushed or pulled.
+git pull - for fetching the files from server to local machines.
+git push - for transferring the files from local machine to server.
